@@ -1,6 +1,5 @@
 jsonschema==4.17.0
 streamlit==1.16.0
-streamlit-card==0.0.4
 streamlit-embedcode==0.1.2
 streamlit-extras==0.2.4
 streamlit-faker==0.0.2
