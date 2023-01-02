@@ -47,8 +47,8 @@ if selected ==  "Home":
     with coli:
         st.markdown(" # _Hi, i am Kelvin Kambalame :wave:_")
         st.write("")
-        st.markdown("_✅ I am a Programer 3 Years expereince._")
-        st.write("_✅Strong hands on experience and knowledge in Python._") 
+        st.markdown("_I am a Programer 3 Years expereince._")
+        st.write("_Strong hands on experience and knowledge in Python._") 
         with st.expander("_Click to read more_"):
             st.markdown("_and i aiso fix and build a lot of things see some of them in my projects. I lives in Malawi, and If U are interested with my services please get in touch with me._")
 
@@ -87,7 +87,7 @@ if selected ==  "Home":
         st.write("_Building Sensors Using Arduino._")
         st.write("_Instaling Security System._")
 
-        st.write("✅ AND I aiso Fix all Electronic things.")
+        st.write(" AND I aiso Fix all Electronic things.")
 
     st.write("___")
 
@@ -145,7 +145,7 @@ elif selected == "Contact":
         st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
 
     with st.container():
-        st.write(" # 📬 Get In Touch with me! ")
+        st.write(" #  Get In Touch with me! ")
         st.write("___")
         st.write("##")
         contact_form = """
